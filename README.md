@@ -17,7 +17,7 @@ App.yet es una herramienta web con la que podrás crear en unos pocos minutos un
 
 Hemos creado el blog de la asignatura de Wordpess con AppYet
 - Link del apk
-[https://github.com/franvalverde/applicatize/blob/master/Applicatize%20AppYet/applicatizeblog.apk]
+https://github.com/franvalverde/applicatize/blob/master/Applicatize%20AppYet/applicatizeblog.apk
 
 - Link del post en applicatize
-[http://applicatize.wordpress.com/2014/05/18/crear-aplicacion-sin-saber-programar-en-android/]
+http://applicatize.wordpress.com/2014/05/18/crear-aplicacion-sin-saber-programar-en-android/
