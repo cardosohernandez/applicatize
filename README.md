@@ -21,3 +21,13 @@ https://github.com/franvalverde/applicatize/blob/master/Applicatize%20AppYet/app
 
 - Link del post en applicatize
 http://applicatize.wordpress.com/2014/05/18/crear-aplicacion-sin-saber-programar-en-android/
+
+PrieGO
+------
+
+Hemos desarrollado una aplicación para android destinada al interés turístico e información de los servicios que se ofrecen en Priego de Córdoba (pueblo al que pertenezco). En ella se puede informar el usuario donde comer, que se puede ver en el pueblo, documentarse de que farmacia esta de guardia y otros datos de interés para habitantes y turistas.
+- Link del apk
+https://github.com/franvalverde/applicatize/blob/master/PrieGO/PrieGO.apk
+
+- Link del post en applicatize
+http://applicatize.wordpress.com/2014/06/03/nace-nuestra-aplicacion-priego/#more-98
