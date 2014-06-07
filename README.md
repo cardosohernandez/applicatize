@@ -31,3 +31,14 @@ https://github.com/franvalverde/applicatize/blob/master/PrieGO/PrieGO.apk
 
 - Link del post en applicatize
 http://applicatize.wordpress.com/2014/06/03/nace-nuestra-aplicacion-priego/#more-98
+
+CuiTrivi
+--------
+
+CuiTrivi juego que consta del clásico tablero donde cada casilla en realidad es un marcador que detecta la cámara del movil y muestra una pregunta de la sección que haya tocado (deportes, geografía, historia, espectáculos…). Se dispone de 10 segundos para contestar la pregunta y pasados estos 10 segundos se mostrará la respuesta. Además se ayuda al jugador mostrando un modelo 3D que ayuda a responder la pregunta.
+
+- Link del apk
+https://github.com/franvalverde/applicatize/blob/master/CuiTrivi/CuiTrivi.apk
+
+- Link del post en applicatize
+http://applicatize.wordpress.com/2014/06/07/cuitrivi-aplicacion-de-realidad-aumentada/#more-110
