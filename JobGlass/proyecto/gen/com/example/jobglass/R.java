@@ -1496,7 +1496,7 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f070037;
         public static final int always=0x7f07001e;
         public static final int bMaps=0x7f070054;
-        public static final int bMisofertas=0x7f070052;
+        public static final int bMisofertas=0x7f070055;
         public static final int beginning=0x7f070023;
         public static final int book_now=0x7f070010;
         public static final int button1=0x7f070062;
@@ -1573,7 +1573,7 @@ containing a value of this type.
         public static final int tableRow3=0x7f07005e;
         public static final int tableRow4=0x7f070061;
         public static final int terrain=0x7f070003;
-        public static final int textOffer=0x7f070055;
+        public static final int textOffer=0x7f070052;
         public static final int textOffer1=0x7f070053;
         public static final int textView1=0x7f070059;
         public static final int textView2=0x7f07005c;

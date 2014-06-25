@@ -24,10 +24,10 @@ import android.widget.Toast;
 public class Maps extends ActionBarActivity {
 	GoogleMap googleMap;
 	float[] results = new float[10];
-	//double endLongitude = -3.599239776057402;
-	//double endLatitude = 37.16821984385613;
-	double endLongitude = -3.6242514000000483; //Facultad
-	double endLatitude = 37.1970143;			//Facultad
+	double endLongitude = -3.599239776057402;
+	double endLatitude = 37.16821984385613;
+	//double endLongitude = -3.6242514000000483; //Facultad
+	//double endLatitude = 37.1970143;			//Facultad
 	LatLng myPosition;
 	Uri soundUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
 

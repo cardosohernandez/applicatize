@@ -71,23 +71,11 @@
         </activity>
         
         <!-- Notification -->
-        <activity 
-            android:name="com.example.jobglass.NotificationReceiverActivity"
-            android:label="@string/notification" >
-        </activity>
         
-        <activity
-            android:name=".ProximityActivity"
-            android:label="@string/app_name" >
-        </activity>
+        
+        
  
-        <activity
-            android:name=".NotificationView"
-            android:label="@string/app_name" >
-            <intent-filter >
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
+        
         
         <!-- Offers -->
          <activity
