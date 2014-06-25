@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BackgroundColor"
+    android:orientation="vertical"
+    tools:context="com.example.jobglass.MainActivity" >
+
+    <fragment
+        android:id="@+id/map1"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        class="com.google.android.gms.maps.MapFragment" />
+
+    <AbsoluteLayout
+        android:id="@+id/container2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/BackgroundColor"
+        android:orientation="vertical"
+        tools:context="com.example.jobglass.MainActivity"
+        tools:ignore="MergeRootFrame" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="265dp"
+            android:layout_height="293dp"
+            android:cropToPadding="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/logoprincipal1" />
+
+        <ImageButton
+            android:id="@+id/bMisofertas"
+            android:layout_width="71dp"
+            android:layout_height="75dp"
+            android:layout_margin="0dp"
+            android:layout_x="42dp"
+            android:layout_y="284dp"
+            android:background="@drawable/fichero"
+            android:onClick="get_Offers"
+            android:padding="0dp"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/textOffer1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="24dp"
+            android:layout_y="260dp"
+            android:text="Mis Ofertas"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/TextoBuscarOferta"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/bMaps"
+            android:layout_width="71dp"
+            android:layout_height="75dp"
+            android:layout_margin="0dp"
+            android:layout_x="222dp"
+            android:layout_y="286dp"
+            android:background="@drawable/carpeta"
+            android:onClick="get_Maps"
+            android:padding="0dp"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/textOffer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="197dp"
+            android:layout_y="260dp"
+            android:text="Buscar ofertas"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/TextoBuscarOferta"
+            android:textStyle="bold" />
+
+    </AbsoluteLayout>
+
+    </LinearLayout>
