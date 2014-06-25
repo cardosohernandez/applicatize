@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.info.priego"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.info.priego.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.info.priego.QueVer"
+            android:label="@string/title_activity_que_ver" >
+        </activity>
+        <activity
+            android:name="com.info.priego.Lugares"
+            android:label="@string/title_activity_lugares" >
+        </activity>
+        <activity
+            android:name="com.info.priego.Iglesias"
+            android:label="@string/title_activity_iglesias" >
+        </activity>
+        <activity
+            android:name="com.info.priego.Museos"
+            android:label="@string/title_activity_museos" >
+        </activity>
+        <activity
+            android:name="com.info.priego.DondeComer"
+            android:label="@string/title_activity_donde_comer" >
+        </activity>
+        <activity
+            android:name="com.info.priego.Restaurantes"
+            android:label="@string/title_activity_restaurantes" >
+        </activity>
+        <activity
+            android:name="com.info.priego.Cafeterias"
+            android:label="@string/title_activity_cafeterias" >
+        </activity>
+        <activity
+            android:name="com.info.priego.Pubs"
+            android:label="@string/title_activity_pubs" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrieGO</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Menú -->
+    <string name="menu1">Inicio</string>
+    <string name="menu2">Sobre PrieGO</string>
+    <string name="menu3">Salir</string>
+    <string name="menu4">Volver a Qué Ver</string>
+    <string name="menu5">Volver a Dónde Comer</string>
+    <string name="menu6">Volver a Servicios</string>
+
+    <!-- Principal -->
+    <string name="servicios">Servicios</string>
+    <string name="quever">Qué ver</string>
+    <string name="dondecomer">Dónde comer</string>
+    <string name="salir">Salir</string>
+
+    <!-- Que ver -->
+    <string name="lugares">Lugares</string>
+    <string name="iglesias">Iglesias</string>
+    <string name="museos">Museos y Otros</string>
+    <string name="atras">Volver atras</string>
+
+    <!-- Lugares -->
+    <string name="fuenteRey">Fuente Rey</string>
+    <string name="descr_fuenteRey">Fuente de estilo barroco construida por Remigio del Mármol en 1803, declarada Patrimonio Nacional.</string>
+    <string name="adarve">Los Adarves</string>
+    <string name="descr_adarve">Balcón natural abierto, de unos 55 metros de altura.</string>
+    <string name="villa">Barrio de la Villa</string>
+    <string name="descr_villa">Declarado Conjunto Histórico-Artístico en 1972. De inspiración medieval y musulmana.</string>
+    <string name="castilla">Recreo de Castilla</string>
+    <string name="descr_castilla">Jardín situado al borde de la muralla del Adarve, pertenenciente de mediados del siglo XVI.</string>
+    <string name="carnicerias">Carnicerías Reales</string>
+    <string name="descr_carnicerias">Matadero y mercado del siglo XVI..</string>
+    <string name="castillo">El castillo</string>
+    <string name="descr_castillo">Fortaleza árabe reformada en los siglos XIII y XIV. De carácter esencialmente militar.</string>
+
+    <!-- Iglesias -->
+    <string name="asuncion">I. Nuestra Sra de la Asunción</string>
+    <string name="descr_asuncion">Edificio gótico-mudéjar de tres naves del siglo XVI, con arcos apuntados sobre pilares octogonales.</string>
+    <string name="francisco">I. San Francisco</string>
+    <string name="descr_francisco">Su construcción data de 1510. Templo gótico tardío o mudéjar, remodelado en el XVIII en estilo barroco.</string>
+    <string name="carmen">Iglesia del Carmen</string>
+    <string name="descr_carmen">Reedificada en estilo barroco en el siglo XVIII por Remigio del Mármol. Obra de transición del barroco al neoclásico.</string>
+    <string name="mercedes">Iglesia de las Mercedes</string>
+    <string name="descr_mercedes">Reedificada sobre la antigua ermita de San Antonio Abad, fue reformada en 1780 por Francisco Javier Pedrajas.</string>
+    <string name="angustias">I. Nuestra Sra de las Angustias</string>
+    <string name="descr_angustias">De estilo rococó, fue fundada en 1773 por Josefa del Mármol para dotar de un templo a la imagen de la Virgen de las Angustias.</string>
+    <string name="sanPedro">Iglesia de San Pedro</string>
+    <string name="descr_sanPedro">Antiguo convento de los alcantarinos. Iglesia barroca concluida en 1690.</string>
+    <string name="calvario">Ermita del Calvario</string>
+    <string name="descr_calvario">Su existencia es anterior a 1593, pues este año ya había en la meseta un lugar de devoción con cruz.</string>
+    <string name="aurora">I. Nuestra Sra de la Aurora </string>
+    <string name="descr_aurora">Antigua ermita de San Nicasio, tiene su origen en el siglo XV.</string>
+    <string name="juan">I. de San Juan de Dios</string>
+    <string name="descr_juan">Fue fundada en 1637 por D. Juan de Herrera. La primitiva iglesia fue derribada en 1696, realizándose la actual por Francisco Hurtado Izquierdo que la terminó en 1717.</string>
+
+    <!-- Museos -->
+    <string name="niceto">Casa Niceto Alcalá Zamora y Torres</string>
+    <string name="descr_niceto">Dedicada a sede del museo y Patronato de D. Niceto Alcalá-Zamora, Presidente de la II República Española.</string>
+    <string name="historico">Museo historico municipal</string>
+    <string name="descr_historico">El Museo Histórico Municipal fue creado el 24 de noviembre de 1983, aunque su reacondicionamiento no se produjo hasta 1995.</string>
+    <string name="lozano">Casa de D.Adolfo Lozano y Sidro</string>
+    <string name="descr_lozano">Pertenece al tipo de casa andaluza señorial, con amplio patio porticado y decoración modernista.</string>
+    <string name="micologico">Jardín micológico</string>
+    <string name="descr_micologico">Están dividido en ocho zonas donde se han recreado los ecosistemas más representativos de Andalucía.</string>
+    <string name="almendra">Museo de la almendra</string>
+    <string name="descr_almendra">El Museo de la Almendra, se encuentra ubicado en la Aldea Prieguense de Zamoranos en un moderno edificio único en la zona.</string>
+    <string name="castil">Casa-Museo Castil de Campos</string>
+    <string name="descr_castil">Ambientada como casa tradicional campeña, entre en el siglo XIX y mediados del siglo XX</string>
+
+    <!-- Donde Comer -->
+    <string name="restaurantes">Restaurantes / Bares</string>
+    <string name="cafeterias">Cafeterias / Tapas</string>
+    <string name="pubs">Pubs / Discotecas</string>
+
+    <!-- Restaurantes -->
+    <string name="balcon_adarve">Balcón del adarve</string>
+    <string name="descr_balcon_adarve">Dirección: Paseo de Colombia, 36. Teléfono:957 54 70 75</string>
+    <string name="palomas">Las Palomas</string>
+    <string name="descr_palomas">Dirección: Carretera de Zagrilla, km 3.5. Teléfono:957 72 03 93</string>
+    <string name="barbacoa">Barbacoa Leo</string>
+    <string name="descr_barbacoa">Dirección: Calle Juan XXIII, 11. Teléfono:957 54 05 08</string>
+    <string name="zahori">Zahori</string>
+    <string name="descr_zahori">Dirección: Calle Real, 2. Teléfono:957 54 72 92</string>
+    <string name="califato">Califato</string>
+    <string name="descr_califato">Dirección: Calle Abad Palomino, 3. Teléfono:653 97 04 96</string>
+    <string name="muralla">La Muralla</string>
+    <string name="descr_muralla">Dirección: Calle Abad Palomino, 16. Teléfono:957 70 18 56</string>
+
+    <!-- Cafeterias -->
+    <string name="miguelin">Miguelin</string>
+    <string name="descr_miguelin">Dirección: Calle del Lozano Sidro, 2. Especialidad: "Desayunos"</string>
+    <string name="gabana">Gabana</string>
+    <string name="descr_gabana">Dirección: Calle Antonio la Barrera, 13. Especialidad: "Tapas"</string>
+    <string name="postigo">El postigo</string>
+    <string name="descr_postigo">Dirección: Calle Antonio de la Barrera. Especialidad: "Tés"</string>
+    <string name="paris">Paris</string>
+    <string name="descr_paris">Dirección: Huerto almarcha. Especialidad: "Cocktail"</string>
+    <string name="mana">Mana</string>
+    <string name="descr_mana">Dirección: Avda de España, 30. Especialidad: "Café"</string>
+    <string name="ibiza">Ibiza</string>
+    <string name="descr_ibiza">Dirección: Avda de España, 26. Especialidad: "Tapas"</string>
+    <string name="dulces">Dulce´s</string>
+    <string name="descr_dulces">Dirección: Calle Río 13. Especialidad: "Desayunos"</string>
+
+    <!-- Pubs -->
+    <string name="charlot">Charlot</string>
+    <string name="descr_charlot">Dirección: Calle Río nº28. Especialidad: "Gintonic"</string>
+    <string name="impacto">Impacto</string>
+    <string name="descr_impacto">Dirección: Calle Río nº28. Especialidad: "Copas"</string>
+    <string name="botica">La Botica</string>
+    <string name="descr_botica">Calle Morales. Especialidad: "Terraza"</string>
+    <string name="moma">Moma</string>
+    <string name="descr_moma">Dirección: Calle Río. Especialidad: "Copas"</string>
+    <string name="holliwood">Holliwood</string>
+    <string name="descr_holliwood">Dirección: Av de España, 43. Especialidad: "Tapas"</string>
+    <string name="vanvas">Van Vas</string>
+    <string name="descr_vanvas">Dirección: Carrera de las Monjas, 22. Especialidad: "Discoteca"</string>
+
+    <!-- Detalle -->
+    <string name="detalle">Detalle</string>
+    <string name="descripcion">Descripción</string>
+    <string name="descripcion_detalle">Descripcion del Detalle</string>
+    <string name="direccion_detalle">Dirección del Detalle</string>
+
+    <!--
+    Que hacer
+    	paintball
+    	Baños de la villa
+    	Senderismo
+    -->
+
+
+    <!-- Sobre prieGO -->
+    <string name="facebook"> Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="masInfo">Más Información</string>
+    <string name="title_activity_que_ver">QueVer</string>
+    <string name="title_activity_lugares">Lugares</string>
+    <string name="title_activity_iglesias">Iglesias</string>
+    <string name="title_activity_museos">Museos</string>
+    <string name="title_activity_donde_comer">DondeComer</string>
+    <string name="title_activity_restaurantes">Restaurantes</string>
+    <string name="title_activity_cafeterias">Cafeterias</string>
+    <string name="title_activity_pubs">Pubs</string>
+
+</resources>

@@ -1,0 +1,106 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondo"
+    android:orientation="vertical" >
+	
+	<RelativeLayout 
+    	android:layout_width="match_parent" 
+    	android:layout_height="wrap_content" >
+
+		<ImageButton
+			android:id="@+id/imagen_servicios" 
+			android:layout_width="120dp" 
+			android:layout_height="105dp" 
+			android:contentDescription="@string/twitter" 
+			android:background="@null"
+			android:layout_marginLeft="22dp" 
+			android:onClick="ir_servicios" 
+			android:src="@drawable/servicios" />
+		
+		<TextView
+		    android:id="@+id/texto_servicios"
+		    android:layout_width="fill_parent"
+		    android:gravity="center"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/imagen_servicios"
+		    android:layout_toLeftOf="@+id/imagen_quever"
+		    android:clickable="false"
+		    android:contentDescription="@string/servicios"
+		    android:text="@string/servicios" />
+
+		<ImageButton
+			android:id="@+id/imagen_quever" 
+			android:layout_width="120dp" 
+			android:layout_height="105dp" 
+			android:layout_alignParentRight="true" 
+			android:layout_alignParentTop="true" 
+			android:layout_marginRight="22dp" 
+			android:background="@null" 
+			android:contentDescription="@string/facebook" 
+			android:onClick="ir_quever" 
+			android:src="@drawable/ver" />
+		
+		<TextView
+		    android:id="@+id/texto_quever"
+		    android:gravity="center"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/imagen_quever"
+		    android:layout_toRightOf="@+id/imagen_servicios"
+		    android:clickable="false"
+		    android:contentDescription="@string/quever"
+		    android:text="@string/quever" />
+
+   </RelativeLayout>
+   
+   <RelativeLayout 
+    	android:layout_width="match_parent" 
+    	android:layout_height="wrap_content" >
+
+		<ImageButton
+			android:id="@+id/imagen_dondecomer" 
+			android:layout_width="120dp" 
+			android:layout_height="105dp" 
+			android:contentDescription="@string/twitter" 
+			android:background="@null"
+			android:layout_marginLeft="22dp" 
+			android:onClick="ir_dondecomer" 
+			android:src="@drawable/comer" />
+		
+		<TextView
+		    android:id="@+id/texto_dondecomer"
+		    android:layout_width="fill_parent"
+		    android:gravity="center"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/imagen_dondecomer"
+		    android:layout_toLeftOf="@+id/imagen_salir"
+		    android:clickable="false"
+		    android:contentDescription="@string/dondecomer"
+		    android:text="@string/dondecomer" />
+
+		<ImageButton
+			android:id="@+id/imagen_salir" 
+			android:layout_width="120dp" 
+			android:layout_height="105dp" 
+			android:layout_alignParentRight="true" 
+			android:layout_alignParentTop="true" 
+			android:layout_marginRight="22dp" 
+			android:background="@null" 
+			android:contentDescription="@string/facebook" 
+			android:onClick="ir_salir" 
+			android:src="@drawable/salir" />
+		
+		<TextView
+		    android:id="@+id/texto_salir"
+		    android:gravity="center"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/imagen_salir"
+		    android:layout_toRightOf="@+id/imagen_dondecomer"
+		    android:clickable="false"
+		    android:contentDescription="@string/salir"
+		    android:text="@string/salir" />
+
+   </RelativeLayout>
+</LinearLayout> 

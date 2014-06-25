@@ -1,0 +1,35 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent"
+	android:layout_height="fill_parent" 
+	android:descendantFocusability="blocksDescendants">
+
+<ImageView 
+    android:id="@+id/img_iglesia"
+	android:layout_width="150dp" 
+	android:layout_height="100dp" 
+	android:clickable="true" 
+	android:contentDescription="@string/hello_world" 
+	android:padding="5dp" 
+	android:src="@drawable/fuenterey" />
+<TextView
+	android:id="@+id/tituloIglesia" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content" 
+	android:layout_toRightOf="@id/img_iglesia" 
+	android:contentDescription="@string/fuenteRey" 
+	android:paddingTop="5dip" 
+	android:text="@string/fuenteRey"
+	android:textSize="16sp"
+	android:textStyle="bold" />
+<TextView
+	android:id="@+id/descripcionIglesia" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content" 
+	android:layout_below="@id/tituloIglesia" 
+	android:layout_toRightOf="@id/img_iglesia" 
+	android:textSize="12sp"
+	android:contentDescription="@string/descr_fuenteRey" 
+	android:text="@string/descr_fuenteRey"/>
+
+</RelativeLayout>

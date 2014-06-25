@@ -1,0 +1,106 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondo_comer"
+    android:orientation="vertical" >
+	
+	<RelativeLayout 
+    	android:layout_width="match_parent" 
+    	android:layout_height="wrap_content" >
+
+		<ImageButton
+			android:id="@+id/imagen_restaurantes" 
+			android:layout_width="120dp" 
+			android:layout_height="105dp" 
+			android:contentDescription="@string/restaurantes" 
+			android:background="@null"
+			android:layout_marginLeft="22dp" 
+			android:onClick="ir_restaurantes" 
+			android:src="@drawable/restaurante" />
+		
+		<TextView
+		    android:id="@+id/texto_restaurantes"
+		    android:layout_width="fill_parent"
+		    android:gravity="center"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/imagen_restaurantes"
+		    android:layout_toLeftOf="@+id/imagen_cafeterias"
+		    android:clickable="false"
+		    android:contentDescription="@string/restaurantes"
+		    android:text="@string/restaurantes" />
+
+		<ImageButton
+			android:id="@+id/imagen_cafeterias" 
+			android:layout_width="120dp" 
+			android:layout_height="105dp" 
+			android:layout_alignParentRight="true" 
+			android:layout_alignParentTop="true" 
+			android:layout_marginRight="22dp" 
+			android:background="@null" 
+			android:contentDescription="@string/facebook" 
+			android:onClick="ir_cafeterias" 
+			android:src="@drawable/cafeteria" />
+		
+		<TextView
+		    android:id="@+id/texto_cafeterias"
+		    android:gravity="center"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/imagen_cafeterias"
+		    android:layout_toRightOf="@+id/imagen_restaurantes"
+		    android:clickable="false"
+		    android:contentDescription="@string/cafeterias"
+		    android:text="@string/cafeterias" />
+
+   </RelativeLayout>
+   
+   <RelativeLayout 
+    	android:layout_width="match_parent" 
+    	android:layout_height="wrap_content" >
+
+		<ImageButton
+			android:id="@+id/imagen_pubs" 
+			android:layout_width="120dp" 
+			android:layout_height="105dp" 
+			android:contentDescription="@string/twitter" 
+			android:background="@null"
+			android:layout_marginLeft="22dp" 
+			android:onClick="ir_pubs" 
+			android:src="@drawable/museos" />
+		
+		<TextView
+		    android:id="@+id/texto_pubs"
+		    android:layout_width="fill_parent"
+		    android:gravity="center"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/imagen_pubs"
+		    android:layout_toLeftOf="@+id/imagen_atras"
+		    android:clickable="false"
+		    android:contentDescription="@string/pubs"
+		    android:text="@string/pubs" />
+
+		<ImageButton
+			android:id="@+id/imagen_atras" 
+			android:layout_width="120dp" 
+			android:layout_height="105dp" 
+			android:layout_alignParentRight="true" 
+			android:layout_alignParentTop="true" 
+			android:layout_marginRight="22dp" 
+			android:background="@null" 
+			android:contentDescription="@string/facebook" 
+			android:onClick="ir_atras" 
+			android:src="@drawable/atras" />
+		
+		<TextView
+		    android:id="@+id/texto_atras"
+		    android:gravity="center"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_below="@id/imagen_atras"
+		    android:layout_toRightOf="@+id/imagen_pubs"
+		    android:clickable="false"
+		    android:contentDescription="@string/atras"
+		    android:text="@string/atras" />
+
+   </RelativeLayout>
+</LinearLayout>  
