@@ -32,6 +32,9 @@ https://github.com/franvalverde/applicatize/blob/master/PrieGO/PrieGO.apk
 - Link del post en applicatize
 http://applicatize.wordpress.com/2014/06/03/nace-nuestra-aplicacion-priego/#more-98
 
+- Link del app en market
+https://play.google.com/store/apps/details?id=com.info.priego
+
 CuiTrivi
 --------
 
@@ -52,6 +55,18 @@ JobGlass te avisará de una oferta de trabajo cercana en un radio de 100 metros 
 
 - Link del apk
 https://github.com/franvalverde/applicatize/blob/master/JobGlass/JobGlass.apk
+
+- Link del post en applicatize
+https://applicatize.wordpress.com/2014/06/26/jobglass-y-encuentra-trabajo-facilmente/
+
+Caserío de Iznájar
+------------------
+
+Nuestra ultima aplicación desarrollada es para el hotel Caserío de Iznájar el cual nos pidió una aplicación donde el cliente pudiera realizar pedidos indicando su ubicación y el camarero / cocinero los recibiera en un ordenador sin necesidad de tener un camarero pendiente de tomar nota.marca
+La aplicación se conecta a una base de datos mySQL consultando un código de seguridad de acceso y una vez dentro pide un DNI, nombre y ubicación. Cuando tiene rellenos estos datos ya puede realizar pedidos o pedir la cuenta de estos pedidos.
+
+- Link del apk
+https://github.com/franvalverde/applicatize/blob/master/caserio%20de%20iznajar/CaserioDeIznajar.apk
 
 - Link del post en applicatize
 https://applicatize.wordpress.com/2014/06/26/jobglass-y-encuentra-trabajo-facilmente/
