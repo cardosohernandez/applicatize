@@ -42,3 +42,16 @@ https://github.com/franvalverde/applicatize/blob/master/CuiTrivi/CuiTrivi.apk
 
 - Link del post en applicatize
 http://applicatize.wordpress.com/2014/06/07/cuitrivi-aplicacion-de-realidad-aumentada/#more-110
+
+
+JobGlass
+--------
+
+JobGlass puede convertirse en tu mejor aliada a la hora de encontrar y buscar trabajo.
+JobGlass te avisará de una oferta de trabajo cercana en un radio de 100 metros mediante una notificación como si de un mensaje de Whatsapp se tratara. JobGlass se conecta a la base de datos de LinkedIn para poder saber qué negocios tienen en ese momento ofertas de trabajo, la descripción de éste y las condiciones laborales.
+
+- Link del apk
+https://github.com/franvalverde/applicatize/blob/master/JobGlass/JobGlass.apk
+
+- Link del post en applicatize
+https://applicatize.wordpress.com/2014/06/26/jobglass-y-encuentra-trabajo-facilmente/
