@@ -59,6 +59,9 @@ https://github.com/franvalverde/applicatize/blob/master/JobGlass/JobGlass.apk
 - Link del post en applicatize
 https://applicatize.wordpress.com/2014/06/26/jobglass-y-encuentra-trabajo-facilmente/
 
+- Link del app en market
+https://play.google.com/store/apps/details?id=com.llodra.jobglass
+
 Caserío de Iznájar
 ------------------
 
@@ -69,4 +72,7 @@ La aplicación se conecta a una base de datos mySQL consultando un código de se
 https://github.com/franvalverde/applicatize/blob/master/caserio%20de%20iznajar/CaserioDeIznajar.apk
 
 - Link del post en applicatize
-https://applicatize.wordpress.com/2014/06/26/jobglass-y-encuentra-trabajo-facilmente/
+http://applicatize.wordpress.com/2014/06/26/aplicacion-creada-para-caserio-de-iznajar/
+
+- Link del app en market
+https://play.google.com/store/apps/details?id=com.valverde.caserio
